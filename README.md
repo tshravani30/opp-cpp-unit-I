@@ -4,7 +4,7 @@
 ### Student Information
 
 | Field | Details |
-|---------|---------|
+|---------|---------| 
 | Student Name | Shravani Thakur|
 | PRN | 125UAD1098 |
 | Class/Division | SY.Btech / A |
